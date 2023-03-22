@@ -1,0 +1,19 @@
+.App {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Scene {
+  height: 100%;
+  width: 100%;
+}
+
+.Information {
+  padding: 16px;
+  text-align: center;
+}
+
+
